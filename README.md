@@ -22,4 +22,4 @@ After finishing our ETL process we have to tables in our database. One for movie
 
 ![ratings_query](https://github.com/davescudero/Movies-ETL/blob/main/Resources/ratings_query.png)
 
-With this new database students can create their own analysis.
+**With this new database students can create their own analysis**
